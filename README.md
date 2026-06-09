@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @studentvinu007
+- 👋 Hi, I’m Vinayak
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Designing
 - 💞️ I’m looking to collaborate on ...
